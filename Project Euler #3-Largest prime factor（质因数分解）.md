@@ -1,5 +1,11 @@
 > # Project Euler #3: Largest prime factor
 
+Tags: `Medium`
+
+Links: https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem
+
+-----
+
 This problem is a programming version of [Problem 3](https://projecteuler.net/problem=3) from [projecteuler.net](https://projecteuler.net/)
 
 The prime factors of $13195$ are $5, 7, 13$ and $29$.
